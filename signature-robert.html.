@@ -1,1 +1,37 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Robert F. Kleinman - RFK CFO Group Signature</title>
+</head>
+<body style="margin: 0; padding: 0; background-color: #ffffff;">
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="540" style="border-collapse: collapse; font-family: Arial, Helvetica, sans-serif; background-color: #ffffff; width: 540px;">
+    <tr>
+      <td width="170" valign="middle" align="center" style="width: 170px; background-color: #171E2E; border-top: 4px solid #C49A45; border-bottom: 4px solid #C49A45; padding: 20px 0;">
+        <div style="font-family: Georgia, 'Times New Roman', serif; font-size: 56px; font-weight: bold; color: #C49A45; line-height: 56px;">RFK</div>
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size: 17px; font-weight: bold; color: #C49A45; line-height: 20px; letter-spacing: 3px; padding-top: 8px;">CFO GROUP</div>
+      </td>
+      <td valign="middle" style="padding: 10px 0 10px 26px; background-color: #ffffff;">
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size: 26px; font-weight: bold; color: #171E2E; line-height: 30px;">Robert F. Kleinman, CPA</div>
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size: 17px; font-weight: bold; color: #171E2E; line-height: 22px; padding-bottom: 12px;">Founder</div>
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #2D3748; line-height: 22px;">
+          <span style="color: #C49A45; font-weight: bold;">Ph.:</span>
+          <a href="tel:2014070522" style="color: #2D3748; text-decoration: none;">(201) 407 0522</a>
+        </div>
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #2D3748; line-height: 22px;">
+          <span style="color: #C49A45; font-weight: bold;">E.:</span>
+          <a href="mailto:robert@rfkcfogroup.com" style="color: #2D3748; text-decoration: none;">robert@rfkcfogroup.com</a>
+        </div>
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #2D3748; line-height: 22px;">
+          <span style="color: #C49A45; font-weight: bold;">O.:</span>
+          New York <span style="color: #C49A45;">|</span> Miami <span style="color: #C49A45;">|</span> Geneva <span style="color: #C49A45;">|</span> Cayman
+        </div>
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #2D3748; line-height: 22px;">
+          <span style="color: #C49A45; font-weight: bold;">W.:</span>
+          <a href="https://rfkcfogroup.com" target="_blank" style="color: #2D3748; text-decoration: none;">rfkcfogroup.com</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
